@@ -1,0 +1,29 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocduong6697/social-network.git"
+  },
+  "author": "Ngoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngocduong6697/social-network/issues"
+  },
+  "homepage": "https://github.com/ngocduong6697/social-network#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "gravatar": "^1.8.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.12",
+    "request": "^2.88.2"
+  }
+}
