@@ -1,0 +1,3 @@
+{
+    "mongoURL": "mongodb+srv://ngoc:ngocduong@cluser-social-network.pk9wr.mongodb.net/social-network?retryWrites=true&w=majority"
+}
